@@ -1,0 +1,19 @@
+root_level: 1
+asciidoc:
+  attributes:
+    source-highlighter: rouge
+    toclevels: 10
+    toclevels: 10
+    sectids: ''
+    sectlinks: ''
+    sectanchors: ''
+    toc
+    toc-title: Содержание
+    icons: font
+    figure-caption: Рисунок
+    appendix-caption: Приложение
+    wc: WebClient
+    dv: Docsvision
+    doctype: book
+    leveloffset
+pdf-theme: ./pdf-theme.yml
