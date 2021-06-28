@@ -1,19 +1,18 @@
 root_level: 1
 asciidoc:
   attributes:
-    source-highlighter: rouge
-    toclevels: 10
-    toclevels: 10
-    sectids: ''
-    sectlinks: ''
-    sectanchors: ''
-    toc
-    toc-title: Содержание
-    icons: font
-    figure-caption: Рисунок
-    appendix-caption: Приложение
-    wc: WebClient
-    dv: Docsvision
-    doctype: book
-    leveloffset
+  toclevels: 10
+  sectids: ''
+  sectlinks: ''
+  sectanchors: ''
+  toc: ''
+  toc-title: Содержание
+  icons: font
+  figure-caption: Рисунок
+  appendix-caption: Приложение
+  wc: WebClient
+  dv: Docsvision
+  imagesdir: ./webclient/16/admin/_images/
 pdf-theme: ./pdf-theme.yml
+build_dir: ./pdf
+publish: false
